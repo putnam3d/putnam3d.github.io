@@ -1,5 +1,5 @@
 import React from 'react';
-import ThreeScene from './ThreeScene';
+import MainScene from './MainScene.js';
 import './App.css';
 
 
@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <ThreeScene />
+        <MainScene />
       </header>
     </div>
   );
