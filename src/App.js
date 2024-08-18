@@ -14,16 +14,16 @@ function App() {
         <ambientLight intensity={0.5} />
         <pointLight position={[10, 10, 10]} />
 
-        {/* Add a rotating Box */}
+        {/* Add a rotating Box 
         <Box args={[1, 1, 1]} position={[-2, 0, 0]}>
           <meshStandardMaterial attach="material" color="blue" />
-        </Box>
+        </Box> */}
 
-        {/* Add some text */}
+        {/* Add some text 
         <Text position={[2, 0, 0]} fontSize={0.5} color="white">
           Hello R3F
-        </Text>
-
+        </Text> */}
+        
         <GLTFModel url="/models/industrial/valve_model.glb" />
         <OrbitControls />
       </Canvas>
