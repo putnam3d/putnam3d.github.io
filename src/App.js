@@ -1,5 +1,6 @@
 import React from 'react';
 import Navbar from "./components/NavMenu/Navbar/Navbar";
+import GLTFModel from "./components/Models/GLTFModel"
 import { Canvas } from '@react-three/fiber';
 import { OrbitControls, Box, Text } from '@react-three/drei';
 import './App.css';
@@ -23,6 +24,7 @@ function App() {
           Hello R3F
         </Text>
 
+        <GLTFModel url="/models/industrial/valve_model.glb" />
         <OrbitControls />
       </Canvas>
     </div>
