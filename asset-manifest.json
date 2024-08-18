@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/putnam3d/putnam3d.github.io/static/css/main.679d5a15.css",
-    "main.js": "/putnam3d/putnam3d.github.io/static/js/main.5845849f.js",
-    "static/js/453.2109c9ff.chunk.js": "/putnam3d/putnam3d.github.io/static/js/453.2109c9ff.chunk.js",
-    "index.html": "/putnam3d/putnam3d.github.io/index.html",
-    "main.679d5a15.css.map": "/putnam3d/putnam3d.github.io/static/css/main.679d5a15.css.map",
-    "main.5845849f.js.map": "/putnam3d/putnam3d.github.io/static/js/main.5845849f.js.map",
-    "453.2109c9ff.chunk.js.map": "/putnam3d/putnam3d.github.io/static/js/453.2109c9ff.chunk.js.map"
+    "main.css": "/static/css/main.679d5a15.css",
+    "main.js": "/static/js/main.b3991e8c.js",
+    "static/js/453.2109c9ff.chunk.js": "/static/js/453.2109c9ff.chunk.js",
+    "index.html": "/index.html",
+    "main.679d5a15.css.map": "/static/css/main.679d5a15.css.map",
+    "main.b3991e8c.js.map": "/static/js/main.b3991e8c.js.map",
+    "453.2109c9ff.chunk.js.map": "/static/js/453.2109c9ff.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.679d5a15.css",
-    "static/js/main.5845849f.js"
+    "static/js/main.b3991e8c.js"
   ]
 }
