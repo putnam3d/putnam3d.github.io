@@ -1,6 +1,6 @@
 import React from 'react';
 import Navbar from "./components/NavMenu/Navbar/Navbar";
-import GLTFModel from "./components/Models/GLTFModel"
+import GLTFModel from "./components/Models/GLTF/GLTFModel"
 import { Canvas } from '@react-three/fiber';
 import { OrbitControls, Box, Text } from '@react-three/drei';
 import './App.css';
