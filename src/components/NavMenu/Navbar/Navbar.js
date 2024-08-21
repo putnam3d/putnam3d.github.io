@@ -10,7 +10,7 @@ const Navbar = () => {
 
   return (
     <nav className="navbar">
-      <div className="logo"><img src="/images/logo/unite_byte_logo.png" width="50%" height="50%"/></div>
+      <div className="logo"><img src="/images/logo/unite_byte_logo.png" width="10%" height="10%"/>Unite-Byte</div>
       <ul className={`nav-links ${isOpen ? "open" : ""}`}>
         <li><a href="/">Home</a></li>
         <li><a href="/about">About</a></li>
