@@ -7,6 +7,6 @@ import react from '@astrojs/react';
 export default defineConfig({
   output: "static",
   site: "https://putnam3d.github.io/",
-  base: "/putnam3d.github.io/",
-  integrations: [react()]
+  base: "/",
+  integrations: [react(),tailwind()]
 });
