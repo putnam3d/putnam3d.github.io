@@ -9,7 +9,7 @@ const Header = () => {
       <div className="container mx-auto flex justify-between items-center">
         {/* Logo */}
         <a href="/" className="text-2xl font-bold">
-          UniteByte
+          <img src="/assets/identity/UniteByte_Logo.jpg" width="50%"/>
         </a>
 
         {/* Desktop Nav */}
